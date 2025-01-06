@@ -110,7 +110,3 @@ https://localhost:7106/swagger
 - 400: Geçersiz istek (validation hatası)
 - 401: Yetkisiz erişim
 - 500: Sunucu hatası
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. 
